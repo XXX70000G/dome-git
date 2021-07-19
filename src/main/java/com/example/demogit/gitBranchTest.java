@@ -4,5 +4,5 @@ public class gitBranchTest {
 
     private static final String CONSTANT = "TEST";
 
-    private static final String CONSTANT1 = "TEST2";
+    private static final String CONSTANT1 = "TEST1";
 }
