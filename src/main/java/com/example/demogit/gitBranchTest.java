@@ -7,4 +7,6 @@ public class gitBranchTest {
     private static final String CONSTANT1 = "TEST1";
 
     private static final String CONSTANT2 = "TEST2";
+
+    private static final String IDEA_NEW_BRANCH = "IDEA_NEW_BRANCH";
 }
