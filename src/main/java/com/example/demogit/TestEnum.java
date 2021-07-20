@@ -11,7 +11,9 @@ public enum TestEnum {
 
     PRO("",""),
 
-    QWE("","");
+    QWE("",""),
+
+    EWQ("","");
 
     private String code;
 
