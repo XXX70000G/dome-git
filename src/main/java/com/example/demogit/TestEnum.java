@@ -5,7 +5,11 @@ package com.example.demogit;
  */
 
 public enum TestEnum {
-    TEST("1", "TEST");
+    TEST("1", "TEST"),
+
+    DEV("",""),
+
+    PRO("","");
 
     private String code;
 
