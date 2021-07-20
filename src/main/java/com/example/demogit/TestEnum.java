@@ -13,7 +13,9 @@ public enum TestEnum {
 
     QWE("",""),
 
-    EWQ("","");
+    EWQ("",""),
+    
+    DSA("","");
 
     private String code;
 
