@@ -9,7 +9,9 @@ public enum TestEnum {
 
     DEV("",""),
 
-    PRO("","");
+    PRO("",""),
+
+    QWE("","");
 
     private String code;
 
