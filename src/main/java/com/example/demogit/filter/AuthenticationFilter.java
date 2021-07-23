@@ -31,6 +31,10 @@ public class AuthenticationFilter implements Filter {
     @Override
     public void destroy() {
         System.out.println("销毁");
+        System.out.println("销毁");
+        System.out.println("销毁");
+        System.out.println("销毁");
+
         Filter.super.destroy();
 
 
